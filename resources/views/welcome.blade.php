@@ -117,9 +117,7 @@
 		<div class="row justify-content-md-center text-center pb-lg-4 mb-lg-5 mb-4">
           <div class="col-md-8 text-center w-md-50 mx-auto mb-0 ">
             <h2 class="mb-md-2">Our Services</h2>
-            <p class="lead text-muted">Ini adalah pelayanan utama kami yang dapat membantu anda untuk menjelajahi situs ini!
-
-</p>
+            <p class="lead text-muted">Ini adalah pelayanan utama kami yang dapat membantu anda untuk menjelajahi situs ini!</p>
           </div>
 		</div> 
           <div class="row">  
@@ -213,7 +211,7 @@
       <section class="wt-section bg-light">
         <div class="container">
           <header class="text-center w-md-50 mx-auto mb-5">
-            <h2 class="h1 mb-0">Our Parter's</h2>
+            <h2 class="h1 mb-0">Our Partner's</h2>
           </header>
 
           <div class="row justify-content-between align-items-center" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="50">
@@ -272,8 +270,6 @@
 <li class="list-block-item mx-2"><a href="#">Blog</a></li>
 <li class="list-block-item mx-2"><a href="#">Contact Us</a></li>
 <li class="list-block-item mx-2"><a href="#">Privacy Policy</a></li>
-<li class="list-block-item mx-2"><a href="http://webthemez.com">Terms & Conditions</a></li>
-</ul>
 
 </div>
 
